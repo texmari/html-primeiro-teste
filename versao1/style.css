@@ -1,0 +1,9 @@
+#title, .subtitle, .post_title {
+    color:coral
+}
+
+.post_title {
+    color:cornflowerblue
+    font-size: 16px;
+    font-style: italic
+}
